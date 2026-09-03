@@ -41,3 +41,6 @@ example
 # generated native folders
 /ios
 /android
+
+# Include .MD files for this repo (negating global ignore settings)
+!*.md
