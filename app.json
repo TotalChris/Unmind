@@ -8,7 +8,8 @@
     "scheme": "unmind",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "dev.chrisyates.unmind"
     },
     "android": {
       "adaptiveIcon": {
